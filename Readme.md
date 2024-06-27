@@ -11,20 +11,21 @@ Installation
 Clone the repository and install dependencies.
 
 
-git clone https://github.com/yourusername/react-nodejs-starter.git
-cd react-nodejs-starter
+git clone https://github.com/raphyrenu/Work-Raphael
+cd work-Raphael
+
 npm install
 Usage
 Running the Application
 To run the React app and Node.js server concurrently:
 
 
-npm run dev
+npm start
 This command will start both the React development server and the Node.js server.
 
 
 React App: Open http://localhost:3000 to view it in the browser.
-Node.js Backend: APIs are accessible at http://localhost:3001.
+Node.js Backend: APIs are accessible at http://localhost:3001 and mongodb://localhost:27017
 Other Commands
 
 
